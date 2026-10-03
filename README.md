@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-Aspiring Cybersecurity Analyst and Computer Science major / Mathematics minor undergraduate specializing in cybersecurity. Combines foundational training in network defense, operating system security, and risk assessment with practical software engineering and automation experience. Proven ability to analyze system edge cases, ensure cryptographic data integrity, and automate resilient backend workflows.
+Aspiring Cybersecurity Analyst and Computer Science major / Mathematics minor undergraduate specializing in cybersecurity.
+
+Combines foundational training in network defense, operating system security, and risk assessment with practical software engineering and automation experience. Proven ability to analyze system edge cases, ensure cryptographic data integrity, and automate resilient backend workflows.
 
 <!--
 **christopherbkolp/christopherbkolp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
